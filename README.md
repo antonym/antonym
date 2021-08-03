@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-antonym-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonym/)](https://www.linkedin.com/in/antonym/)
+[![Twitter Badge](https://img.shields.io/badge/-@ntonym-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@ntonym)](https://twitter.com/@ntonym)
 <!--
 **antonym/antonym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
