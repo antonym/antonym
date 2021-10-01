@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonym&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonym&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonym&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonym&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antonym&theme=nord_bright)
+
 [![Linkedin Badge](https://img.shields.io/badge/-antonym-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonym/)](https://www.linkedin.com/in/antonym/)
 [![Twitter Badge](https://img.shields.io/badge/-@ntonym-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@ntonym)](https://twitter.com/@ntonym)
 <!--
