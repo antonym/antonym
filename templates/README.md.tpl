@@ -1,10 +1,10 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/antonym/antonym/master/assets/nbxyz.png" width="260">
 
-I'm Antony, an open-source enthusiast and the creator of netboot.xyz. I enjoy hacking on hardware, software,
-and helping others learn about technology.
+I'm Antony, an open-source enthusiast and the creator of [netboot.xyz](https://netboot.xyz). I enjoy 
+hacking on hardware, software, and helping others learn about technology. 
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -27,7 +27,7 @@ and helping others learn about technology.
 {{- end }}
 
 #### 📜 My recent blog posts
-{{range rss "https://fribbledom.com/posts/index.xml" 5}}
+{{range rss "https://reversengineered.com/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
