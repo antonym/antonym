@@ -1,10 +1,10 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/antonym/antonym/master/assets/nbxyz.png" width="260">
 
-I'm Antony, an open-source enthusiast and the creator of netboot.xyz. I enjoy hacking on hardware, software,
-and helping others learn about technology.
+I'm Antony, an open-source enthusiast and the creator of [netboot.xyz](https://netboot.xyz). I enjoy 
+hacking on hardware, software, and helping others learn about technology. 
 
 #### 👷 Check out what I'm currently working on
 
@@ -40,11 +40,11 @@ and helping others learn about technology.
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (4 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (5 years ago)
-- [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (5 years ago)
-- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (5 years ago)
+- [PXE Booting on the Steam Deck](https://www.reversengineered.com/2022/08/02/pxe-booting-on-the-steam-deck/) (1 year ago)
+- [Keeping Up to Date with Renovate](https://www.reversengineered.com/2022/03/13/keeping-up-to-date-with-renovate/) (2 years ago)
+- [Leveraging GitLab for CI CD Deployments of OpenStack](https://www.reversengineered.com/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (4 years ago)
+- [Upgrading Kolla Ansible for Deploying OpenStack](https://www.reversengineered.com/2019/05/10/upgrading-kolla-ansible-for-deploying-openstack/) (4 years ago)
+- [My Home Networking Setup](https://www.reversengineered.com/2017/07/29/my-home-networking-setup/) (6 years ago)
 
 #### 💬 Feedback
 
