@@ -25,6 +25,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: Antony Messerli
+          commit_user_email: antony@mes.ser.li
+          commit_author: Antony Messerli <antony@mes.ser.li>
