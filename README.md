@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (today)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (4 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (6 days ago)
-- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 week ago)
 
 #### 🌱 My latest projects
 
