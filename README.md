@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
+- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Fix lint, update versions](https://github.com/netbootxyz/netboot.xyz/pull/1357) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 days ago)
 - [Release 2.0.75](https://github.com/netbootxyz/netboot.xyz/pull/1354) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.75-RC](https://github.com/netbootxyz/netboot.xyz/pull/1352) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Use altarch dir if CentOS is aarch64](https://github.com/netbootxyz/netboot.xyz/pull/1345) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 2.0.74](https://github.com/netbootxyz/netboot.xyz/pull/1330) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 
 #### ⭐ Recent stars
 
