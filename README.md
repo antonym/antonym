@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (1 day ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 days ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (2 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Fix lint, update versions](https://github.com/netbootxyz/netboot.xyz/pull/1357) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 days ago)
+- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Fix lint, update versions](https://github.com/netbootxyz/netboot.xyz/pull/1357) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
 - [Release 2.0.75](https://github.com/netbootxyz/netboot.xyz/pull/1354) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.75-RC](https://github.com/netbootxyz/netboot.xyz/pull/1352) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [ruvnet/ruvbot](https://github.com/ruvnet/ruvbot) - ruvBot is an innovative tool designed to assist users in navigating and understanding the professional journey and achievements of Reuven Cohen. It utilizes advanced AI to answer questions and provide insights, making it a valuable resource for anyone interested in Reuven&#39;s career. (3 days ago)
+- [ruvnet/ruvbot](https://github.com/ruvnet/ruvbot) - ruvBot is an innovative tool designed to assist users in navigating and understanding the professional journey and achievements of Reuven Cohen. It utilizes advanced AI to answer questions and provide insights, making it a valuable resource for anyone interested in Reuven&#39;s career. (4 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (1 week ago)
 - [geerlingguy/youtube](https://github.com/geerlingguy/youtube) - YouTube channel repo. Stuff that doesn&#39;t fit elsewhere. (2 weeks ago)
-- [moparisthebest/static-curl](https://github.com/moparisthebest/static-curl) - fully static builds of curl, runs anywhere (3 weeks ago)
+- [moparisthebest/static-curl](https://github.com/moparisthebest/static-curl) - fully static builds of curl, runs anywhere (4 weeks ago)
 
 #### 📜 My recent blog posts
 
