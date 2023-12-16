@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
-- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (6 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (1 week ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
-- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
+- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
 - [Fix lint, update versions](https://github.com/netbootxyz/netboot.xyz/pull/1357) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.75](https://github.com/netbootxyz/netboot.xyz/pull/1354) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Release 2.0.75-RC](https://github.com/netbootxyz/netboot.xyz/pull/1352) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
+- [Release 2.0.75-RC](https://github.com/netbootxyz/netboot.xyz/pull/1352) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
