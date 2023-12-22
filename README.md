@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE&#39;s iLO 4 Firmware with access to previously inaccessible utilities (today)
 - [Tech-Byte-Tips/RPi-PXE](https://github.com/Tech-Byte-Tips/RPi-PXE) - Turn any Raspberry Pi into a PXE Server! (2 days ago)
 - [ruvnet/ruvbot](https://github.com/ruvnet/ruvbot) - ruvBot is an innovative tool designed to assist users in navigating and understanding the professional journey and achievements of Reuven Cohen. It utilizes advanced AI to answer questions and provide insights, making it a valuable resource for anyone interested in Reuven&#39;s career. (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (3 weeks ago)
-- [geerlingguy/youtube](https://github.com/geerlingguy/youtube) - YouTube channel repo. Stuff that doesn&#39;t fit elsewhere. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
