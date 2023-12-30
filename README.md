@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Keep legacy memtest 5.x version](https://github.com/netbootxyz/netboot.xyz/pull/1387) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Update to memtest86-plus assets for efi and legacy](https://github.com/netbootxyz/netboot.xyz/pull/1386) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
 - [Update zorin to be more dynamic](https://github.com/netbootxyz/netboot.xyz/pull/1376) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Adds default for make_num_jobs](https://github.com/netbootxyz/netboot.xyz/pull/1364) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
