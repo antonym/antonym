@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (today)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 day ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (3 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 weeks ago)
@@ -24,18 +24,18 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Keep legacy memtest 5.x version](https://github.com/netbootxyz/netboot.xyz/pull/1387) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Update to memtest86-plus assets for efi and legacy](https://github.com/netbootxyz/netboot.xyz/pull/1386) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Keep legacy memtest 5.x version](https://github.com/netbootxyz/netboot.xyz/pull/1387) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Update to memtest86-plus assets for efi and legacy](https://github.com/netbootxyz/netboot.xyz/pull/1386) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
 - [Update zorin to be more dynamic](https://github.com/netbootxyz/netboot.xyz/pull/1376) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Relax checks on tftp filename in bootloader](https://github.com/netbootxyz/netboot.xyz/pull/1365) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE&#39;s iLO 4 Firmware with access to previously inaccessible utilities (1 week ago)
 - [Tech-Byte-Tips/RPi-PXE](https://github.com/Tech-Byte-Tips/RPi-PXE) - Turn any Raspberry Pi into a PXE Server! (1 week ago)
 - [ruvnet/ruvbot](https://github.com/ruvnet/ruvbot) - ruvBot is an innovative tool designed to assist users in navigating and understanding the professional journey and achievements of Reuven Cohen. It utilizes advanced AI to answer questions and provide insights, making it a valuable resource for anyone interested in Reuven&#39;s career. (3 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (1 month ago)
 
 #### 📜 My recent blog posts
