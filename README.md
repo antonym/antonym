@@ -11,7 +11,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
-- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (4 weeks ago)
+- [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (1 month ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 month ago)
 
 #### 🌱 My latest projects
