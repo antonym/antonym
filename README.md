@@ -10,7 +10,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
 - [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (1 month ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 month ago)
 
@@ -26,8 +26,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [Release 2.0.76](https://github.com/netbootxyz/netboot.xyz/pull/1390) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.76-RC](https://github.com/netbootxyz/netboot.xyz/pull/1389) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Keep legacy memtest 5.x version](https://github.com/netbootxyz/netboot.xyz/pull/1387) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
+- [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Keep legacy memtest 5.x version](https://github.com/netbootxyz/netboot.xyz/pull/1387) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Update to memtest86-plus assets for efi and legacy](https://github.com/netbootxyz/netboot.xyz/pull/1386) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
