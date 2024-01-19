@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates) - HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers (today)
+- [uroesch/packer-linux](https://github.com/uroesch/packer-linux) - Framework to create linux disk images for a corporate environment. (today)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (2 weeks ago)
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE&#39;s iLO 4 Firmware with access to previously inaccessible utilities (4 weeks ago)
 - [Tech-Byte-Tips/RPi-PXE](https://github.com/Tech-Byte-Tips/RPi-PXE) - Turn any Raspberry Pi into a PXE Server! (1 month ago)
-- [ruvnet/ruvbot](https://github.com/ruvnet/ruvbot) - ruvBot is an innovative tool designed to assist users in navigating and understanding the professional journey and achievements of Reuven Cohen. It utilizes advanced AI to answer questions and provide insights, making it a valuable resource for anyone interested in Reuven&#39;s career. (1 month ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
 #### 📜 My recent blog posts
 
