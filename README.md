@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface (today)
 - [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates) - HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers (4 days ago)
 - [uroesch/packer-linux](https://github.com/uroesch/packer-linux) - Framework to create linux disk images for a corporate environment. (4 days ago)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (3 weeks ago)
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE&#39;s iLO 4 Firmware with access to previously inaccessible utilities (1 month ago)
-- [Tech-Byte-Tips/RPi-PXE](https://github.com/Tech-Byte-Tips/RPi-PXE) - Turn any Raspberry Pi into a PXE Server! (1 month ago)
 
 #### 📜 My recent blog posts
 
