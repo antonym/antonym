@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (5 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (6 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 weeks ago)
 - [antonym/resume](https://github.com/antonym/resume) - Antony Messerli&#39;s Resume (1 month ago)
@@ -32,9 +32,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface (1 day ago)
-- [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates) - HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers (5 days ago)
-- [uroesch/packer-linux](https://github.com/uroesch/packer-linux) - Framework to create linux disk images for a corporate environment. (5 days ago)
+- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface (2 days ago)
+- [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates) - HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers (6 days ago)
+- [uroesch/packer-linux](https://github.com/uroesch/packer-linux) - Framework to create linux disk images for a corporate environment. (6 days ago)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (3 weeks ago)
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE&#39;s iLO 4 Firmware with access to previously inaccessible utilities (1 month ago)
 
