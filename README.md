@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (today)
-- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (2 days ago)
-- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere) - Packer Examples for vSphere (5 days ago)
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (1 day ago)
+- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (3 days ago)
+- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere) - Packer Examples for vSphere (6 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
-- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface (2 weeks ago)
+- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface (3 weeks ago)
 
 #### 📜 My recent blog posts
 
