@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 day ago)
-- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (3 days ago)
-- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (5 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 days ago)
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (4 days ago)
+- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (6 days ago)
 - [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere) - Packer Examples for vSphere (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
 
 #### 📜 My recent blog posts
 
