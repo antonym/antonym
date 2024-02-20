@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 weeks ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (today)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (5 days ago)
+- [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (6 days ago)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (1 week ago)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (1 week ago)
 - [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere) - Packer Examples for vSphere (1 week ago)
