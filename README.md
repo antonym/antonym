@@ -11,8 +11,8 @@ hacking on hardware, software, and helping others learn about technology.
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (4 weeks ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (4 weeks ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 month ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [fabceolin/grubnetx64-chainloader-ipxe](https://github.com/fabceolin/grubnetx64-chainloader-ipxe) - This is my testing environment for test grubnetx64 to ipxe chainloading (1 week ago)
 - [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (2 weeks ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 weeks ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (3 weeks ago)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (3 weeks ago)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (3 weeks ago)
 
