@@ -25,7 +25,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### 🔨 Latest Pull Requests I published
 
 - [Release 2.0.77](https://github.com/netbootxyz/netboot.xyz/pull/1422) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 2.0.77-RC](https://github.com/netbootxyz/netboot.xyz/pull/1420) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Release 2.0.77-RC](https://github.com/netbootxyz/netboot.xyz/pull/1420) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Release 2.0.76](https://github.com/netbootxyz/netboot.xyz/pull/1390) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 - [Release 2.0.76-RC](https://github.com/netbootxyz/netboot.xyz/pull/1389) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 - [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
@@ -34,7 +34,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [fabceolin/grubnetx64-chainloader-ipxe](https://github.com/fabceolin/grubnetx64-chainloader-ipxe) - This is my testing environment for test grubnetx64 to ipxe chainloading (2 weeks ago)
 - [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (3 weeks ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (4 weeks ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 month ago)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (1 month ago)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (1 month ago)
 
