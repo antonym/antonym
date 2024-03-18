@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (today)
+- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 weeks ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 weeks ago)
@@ -33,7 +33,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### ⭐ Recent stars
 
 - [fabceolin/grubnetx64-chainloader-ipxe](https://github.com/fabceolin/grubnetx64-chainloader-ipxe) - This is my testing environment for test grubnetx64 to ipxe chainloading (3 weeks ago)
-- [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (3 weeks ago)
+- [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (4 weeks ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 month ago)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (1 month ago)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser (1 month ago)
