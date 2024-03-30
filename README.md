@@ -26,13 +26,13 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [Release 2.0.77](https://github.com/netbootxyz/netboot.xyz/pull/1422) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.77-RC](https://github.com/netbootxyz/netboot.xyz/pull/1420) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.76](https://github.com/netbootxyz/netboot.xyz/pull/1390) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
-- [Release 2.0.76-RC](https://github.com/netbootxyz/netboot.xyz/pull/1389) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
+- [Release 2.0.76](https://github.com/netbootxyz/netboot.xyz/pull/1390) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
+- [Release 2.0.76-RC](https://github.com/netbootxyz/netboot.xyz/pull/1389) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
 - [Add legacy memtest menu back, cleanup](https://github.com/netbootxyz/netboot.xyz/pull/1388) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (6 days ago)
+- [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (1 week ago)
 - [fabceolin/grubnetx64-chainloader-ipxe](https://github.com/fabceolin/grubnetx64-chainloader-ipxe) - This is my testing environment for test grubnetx64 to ipxe chainloading (1 month ago)
 - [CarmineCodes/Proxmox-No-Subscription-No-Problem](https://github.com/CarmineCodes/Proxmox-No-Subscription-No-Problem) - remove the enterprise repository to make it possible to update proxmox and remove the no subscription popup box on login (1 month ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 month ago)
