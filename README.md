@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.78](https://github.com/netbootxyz/netboot.xyz/pull/1443) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Release 2.0.78-RC](https://github.com/netbootxyz/netboot.xyz/pull/1442) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
 - [Release 2.0.77](https://github.com/netbootxyz/netboot.xyz/pull/1422) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.77-RC](https://github.com/netbootxyz/netboot.xyz/pull/1420) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.76](https://github.com/netbootxyz/netboot.xyz/pull/1390) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
-- [Release 2.0.76-RC](https://github.com/netbootxyz/netboot.xyz/pull/1389) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
 
 #### ⭐ Recent stars
 
