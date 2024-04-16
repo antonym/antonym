@@ -10,7 +10,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
-- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (4 weeks ago)
+- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 month ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 month ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 month ago)
 
