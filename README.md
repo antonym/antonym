@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (4 days ago)
-- [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size (1 week ago)
+- [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (5 days ago)
+- [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size (2 weeks ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 month ago)
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment (1 month ago)
 - [fabceolin/grubnetx64-chainloader-ipxe](https://github.com/fabceolin/grubnetx64-chainloader-ipxe) - This is my testing environment for test grubnetx64 to ipxe chainloading (2 months ago)
