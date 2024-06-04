@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1471) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
+- [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1470) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Release 2.0.79](https://github.com/netbootxyz/netboot.xyz/pull/1467) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.79-RC](https://github.com/netbootxyz/netboot.xyz/pull/1465) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.78](https://github.com/netbootxyz/netboot.xyz/pull/1443) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
-- [Release 2.0.78-RC](https://github.com/netbootxyz/netboot.xyz/pull/1442) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
-- [Release 2.0.77](https://github.com/netbootxyz/netboot.xyz/pull/1422) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 months ago)
 
 #### ⭐ Recent stars
 
