@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (today)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (2 weeks ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system. (1 month ago)
 - [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (2 months ago)
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size (2 months ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (3 months ago)
 
 #### 📜 My recent blog posts
 
