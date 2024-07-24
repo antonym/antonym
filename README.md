@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.80](https://github.com/netbootxyz/netboot.xyz/pull/1486) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Release 2.0.80](https://github.com/netbootxyz/netboot.xyz/pull/1486) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.80-RC](https://github.com/netbootxyz/netboot.xyz/pull/1478) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1471) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1470) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.79](https://github.com/netbootxyz/netboot.xyz/pull/1467) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
+- [Release 2.0.79](https://github.com/netbootxyz/netboot.xyz/pull/1467) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (1 week ago)
+- [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (2 weeks ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (1 month ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system. (2 months ago)
 - [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (2 months ago)
