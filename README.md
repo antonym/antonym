@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
-- [antonym/reversengineered.com](https://github.com/antonym/reversengineered.com) - Source code for reversengineered.com blog (1 day ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
+- [antonym/reversengineered.com](https://github.com/antonym/reversengineered.com) - Source code for reversengineered.com blog (2 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (1 month ago)
 
@@ -25,7 +25,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### 🔨 Latest Pull Requests I published
 
 - [Release 2.0.80](https://github.com/netbootxyz/netboot.xyz/pull/1486) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Release 2.0.80-RC](https://github.com/netbootxyz/netboot.xyz/pull/1478) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
+- [Release 2.0.80-RC](https://github.com/netbootxyz/netboot.xyz/pull/1478) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1471) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1470) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.79](https://github.com/netbootxyz/netboot.xyz/pull/1467) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
