@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (today)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (3 weeks ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (1 month ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system. (2 months ago)
 - [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (2 months ago)
-- [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size (3 months ago)
 
 #### 📜 My recent blog posts
 
