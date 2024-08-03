@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [ Adding support for Vanilla OS](https://github.com/netbootxyz/netboot.xyz/pull/1495) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Release 2.0.80](https://github.com/netbootxyz/netboot.xyz/pull/1486) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.80-RC](https://github.com/netbootxyz/netboot.xyz/pull/1478) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1471) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
-- [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1470) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
