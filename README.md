@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 days ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (5 days ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (6 days ago)
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
 - [ Adding support for Vanilla OS](https://github.com/netbootxyz/netboot.xyz/pull/1495) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
 - [Release 2.0.80](https://github.com/netbootxyz/netboot.xyz/pull/1486) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Release 2.0.80-RC](https://github.com/netbootxyz/netboot.xyz/pull/1478) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Add alternative mode for System Rescue with &#39;rootpass&#39; as MAC address](https://github.com/netbootxyz/netboot.xyz/pull/1471) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
