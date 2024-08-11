@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (today)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (today)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 day ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 day ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,10 +24,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
 - [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 
 #### ⭐ Recent stars
