@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (today)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 day ago)
 - [netbootxyz/docker-yaml-merge](https://github.com/netbootxyz/docker-yaml-merge) - Helper container used in build pipelining to merge yaml (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
@@ -27,7 +27,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
+- [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
