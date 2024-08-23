@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (today)
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (3 weeks ago)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (1 month ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (2 months ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system. (3 months ago)
-- [containers/podman-desktop-extension-bootc](https://github.com/containers/podman-desktop-extension-bootc) - Support for bootable OS containers (bootc) and generating disk images (3 months ago)
 
 #### 📜 My recent blog posts
 
