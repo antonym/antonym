@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (2 days ago)
 - [netbootxyz/docker-yaml-merge](https://github.com/netbootxyz/docker-yaml-merge) - Helper container used in build pipelining to merge yaml (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
+- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.81-RC](https://github.com/netbootxyz/netboot.xyz/pull/1502) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Add ZFSBootMenu and a check if initrd is present](https://github.com/netbootxyz/netboot.xyz/pull/1498) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (today)
+- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (1 day ago)
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (3 weeks ago)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (1 month ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (2 months ago)
