@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 week ago)
 - [netbootxyz/docker-yaml-merge](https://github.com/netbootxyz/docker-yaml-merge) - Helper container used in build pipelining to merge yaml (2 weeks ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (5 days ago)
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (3 weeks ago)
+- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (6 days ago)
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (4 weeks ago)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (1 month ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (2 months ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system. (3 months ago)
