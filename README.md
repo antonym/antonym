@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (6 days ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 week ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
 - [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 week ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (2 weeks ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (3 weeks ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
 
 #### 🌱 My latest projects
 
