@@ -10,7 +10,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 week ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 week ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (2 weeks ago)
 - [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (3 weeks ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
 
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (today)
-- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (2 weeks ago)
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 day ago)
+- [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (3 weeks ago)
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (1 month ago)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (2 months ago)
 - [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) - Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org. (2 months ago)
