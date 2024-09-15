@@ -9,9 +9,9 @@ hacking on hardware, software, and helping others learn about technology.
 #### 👷 Check out what I'm currently working on
 
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (today)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (today)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 week ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (2 weeks ago)
 - [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (3 weeks ago)
 
 #### 🌱 My latest projects
