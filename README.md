@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (2 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (3 days ago)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 week ago)
-- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
+- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (2 weeks ago)
 - [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (2 days ago)
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (5 days ago)
+- [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (3 days ago)
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (6 days ago)
 - [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (3 weeks ago)
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (1 month ago)
 - [1NoOne1/ansible-racadm](https://github.com/1NoOne1/ansible-racadm) - using ansible raw module and RACADM to access and modify iDrac settings. (2 months ago)
