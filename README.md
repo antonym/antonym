@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 week ago)
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (2 weeks ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (3 weeks ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [containers/ramalama](https://github.com/containers/ramalama) - The goal of ramalama is to make working with AI boring. (1 day ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of ramalama is to make working with AI boring. (2 days ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (1 week ago)
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 week ago)
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (2 weeks ago)
 - [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (1 month ago)
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (1 month ago)
 
