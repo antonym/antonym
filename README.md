@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [containers/ramalama](https://github.com/containers/ramalama) - The goal of ramalama is to make working with AI boring. (5 days ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of ramalama is to make working with AI boring. (6 days ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (2 weeks ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (2 weeks ago)
 - [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (1 month ago)
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (1 month ago)
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni (2 months ago)
 
 #### 📜 My recent blog posts
 
