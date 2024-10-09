@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.82](https://github.com/netbootxyz/netboot.xyz/pull/1520) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 2.0.82-RC](https://github.com/netbootxyz/netboot.xyz/pull/1519) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
+- [Release 2.0.82](https://github.com/netbootxyz/netboot.xyz/pull/1520) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Release 2.0.82-RC](https://github.com/netbootxyz/netboot.xyz/pull/1519) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
+- [Switch to dnf to fix lint](https://github.com/netbootxyz/netboot.xyz/pull/1505) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
+- [Trigger CI](https://github.com/netbootxyz/netboot.xyz/pull/1504) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 day ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 days ago)
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (2 weeks ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (3 weeks ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (3 weeks ago)
