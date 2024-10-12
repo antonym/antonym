@@ -32,10 +32,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (4 days ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (5 days ago)
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (2 weeks ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (3 weeks ago)
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (4 weeks ago)
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 month ago)
 - [vexxhost/migratekit](https://github.com/vexxhost/migratekit) - Near-live migration toolkit for VMware to OpenStack (1 month ago)
 
 #### 📜 My recent blog posts
