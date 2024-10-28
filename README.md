@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (today)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (4 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 month ago)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 month ago)
@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump alpine version, test arm7](https://github.com/netbootxyz/docker-netbootxyz/pull/75) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (4 days ago)
+- [Bump alpine version, test arm7](https://github.com/netbootxyz/docker-netbootxyz/pull/75) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (5 days ago)
 - [Release 2.0.82](https://github.com/netbootxyz/netboot.xyz/pull/1520) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.82-RC](https://github.com/netbootxyz/netboot.xyz/pull/1519) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.81](https://github.com/netbootxyz/netboot.xyz/pull/1506) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
@@ -33,7 +33,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### ⭐ Recent stars
 
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (1 week ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 weeks ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (3 weeks ago)
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (1 month ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (1 month ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 month ago)
