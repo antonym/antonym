@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (today)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 day ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 month ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### ⭐ Recent stars
 
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (2 weeks ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (3 weeks ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (4 weeks ago)
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (1 month ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (1 month ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 month ago)
