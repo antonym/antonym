@@ -35,7 +35,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [pli01/terraform-infra-blue-green](https://github.com/pli01/terraform-infra-blue-green) - terraform-infra-blue-green (2 weeks ago)
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (1 month ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 month ago)
-- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (1 month ago)
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (2 months ago)
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (2 months ago)
 
 #### 📜 My recent blog posts
