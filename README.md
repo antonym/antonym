@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (today)
 - [pli01/terraform-infra-blue-green](https://github.com/pli01/terraform-infra-blue-green) - terraform-infra-blue-green (1 month ago)
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (2 months ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 months ago)
 - [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring. (3 months ago)
-- [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image. (3 months ago)
 
 #### 📜 My recent blog posts
 
