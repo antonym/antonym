@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (today)
-- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (4 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (4 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (4 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
+- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (5 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (5 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (5 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Limit envsub to only variable being changed](https://github.com/netbootxyz/docker-netbootxyz/pull/78) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (today)
+- [Limit envsub to only variable being changed](https://github.com/netbootxyz/docker-netbootxyz/pull/78) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
 - [Allow for live_endpoint override](https://github.com/netbootxyz/netboot.xyz/pull/1537) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Moves win_base_url and rhel_base_url to local-vars.ipxe](https://github.com/netbootxyz/netboot.xyz/pull/1536) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.83](https://github.com/netbootxyz/netboot.xyz/pull/1531) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
@@ -32,7 +32,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (today)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 day ago)
 - [pli01/terraform-infra-blue-green](https://github.com/pli01/terraform-infra-blue-green) - terraform-infra-blue-green (1 month ago)
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (2 months ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 months ago)
