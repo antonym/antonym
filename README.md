@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.84-RC](https://github.com/netbootxyz/netboot.xyz/pull/1556) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Limit envsub to only variable being changed](https://github.com/netbootxyz/docker-netbootxyz/pull/78) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (3 days ago)
 - [Allow for live_endpoint override](https://github.com/netbootxyz/netboot.xyz/pull/1537) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Moves win_base_url and rhel_base_url to local-vars.ipxe](https://github.com/netbootxyz/netboot.xyz/pull/1536) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 2.0.83](https://github.com/netbootxyz/netboot.xyz/pull/1531) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.83-RC](https://github.com/netbootxyz/netboot.xyz/pull/1530) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
