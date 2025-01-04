@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (5 days ago)
 - [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.84](https://github.com/netbootxyz/netboot.xyz/pull/1557) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Release 2.0.84-RC](https://github.com/netbootxyz/netboot.xyz/pull/1556) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
 - [Limit envsub to only variable being changed](https://github.com/netbootxyz/docker-netbootxyz/pull/78) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (5 days ago)
 - [Allow for live_endpoint override](https://github.com/netbootxyz/netboot.xyz/pull/1537) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Moves win_base_url and rhel_base_url to local-vars.ipxe](https://github.com/netbootxyz/netboot.xyz/pull/1536) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.83](https://github.com/netbootxyz/netboot.xyz/pull/1531) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
