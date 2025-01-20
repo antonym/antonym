@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (today)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (6 days ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 weeks ago)
 - [pli01/terraform-infra-blue-green](https://github.com/pli01/terraform-infra-blue-green) - terraform-infra-blue-green (2 months ago)
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster! (3 months ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (3 months ago)
 
 #### 📜 My recent blog posts
 
