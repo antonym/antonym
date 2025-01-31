@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (today)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (4 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (1 week ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (2 weeks ago)
 
 #### 📜 My recent blog posts
 
