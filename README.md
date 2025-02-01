@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (today)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (today)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump version to 0.7.4](https://github.com/netbootxyz/webapp/pull/84) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
 - [Update to latest ISO versions](https://github.com/jetkvm/kvm/pull/78) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (2 weeks ago)
 - [Release 2.0.84](https://github.com/netbootxyz/netboot.xyz/pull/1557) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
 - [Release 2.0.84-RC](https://github.com/netbootxyz/netboot.xyz/pull/1556) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Limit envsub to only variable being changed](https://github.com/netbootxyz/docker-netbootxyz/pull/78) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
-- [Allow for live_endpoint override](https://github.com/netbootxyz/netboot.xyz/pull/1537) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
