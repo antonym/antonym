@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (today)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
-- [netbootxyz/core](https://github.com/netbootxyz/core) (3 weeks ago)
 
 #### 🌱 My latest projects
 
