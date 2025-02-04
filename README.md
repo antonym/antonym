@@ -9,10 +9,10 @@ hacking on hardware, software, and helping others learn about technology.
 #### 👷 Check out what I'm currently working on
 
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (3 days ago)
 - [antonym/reversengineered.com](https://github.com/antonym/reversengineered.com) - Source code for reversengineered.com blog (3 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add donate links to logs](https://github.com/netbootxyz/docker-netbootxyz/pull/80) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (today)
 - [Test trivy for PRs](https://github.com/netbootxyz/docker-netbootxyz/pull/79) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (3 days ago)
 - [Bump version to 0.7.4](https://github.com/netbootxyz/webapp/pull/84) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (3 days ago)
 - [Update to latest ISO versions](https://github.com/jetkvm/kvm/pull/78) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (2 weeks ago)
 - [Release 2.0.84](https://github.com/netbootxyz/netboot.xyz/pull/1557) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.84-RC](https://github.com/netbootxyz/netboot.xyz/pull/1556) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
