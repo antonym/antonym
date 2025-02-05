@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (today)
 - [Add donate links to logs](https://github.com/netbootxyz/docker-netbootxyz/pull/80) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
 - [Test trivy for PRs](https://github.com/netbootxyz/docker-netbootxyz/pull/79) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (4 days ago)
 - [Bump version to 0.7.4](https://github.com/netbootxyz/webapp/pull/84) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (4 days ago)
 - [Update to latest ISO versions](https://github.com/jetkvm/kvm/pull/78) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (3 weeks ago)
-- [Release 2.0.84](https://github.com/netbootxyz/netboot.xyz/pull/1557) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
