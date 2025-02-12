@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (1 day ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (4 days ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (4 days ago)
 - [netbootxyz/docker-yaml-merge](https://github.com/netbootxyz/docker-yaml-merge) - Helper container used in build pipelining to merge yaml (1 week ago)
 
