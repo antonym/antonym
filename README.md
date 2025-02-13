@@ -9,10 +9,10 @@ hacking on hardware, software, and helping others learn about technology.
 #### 👷 Check out what I'm currently working on
 
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 day ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 day ago)
 - [netbootxyz/core](https://github.com/netbootxyz/core) (1 day ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 day ago)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
 - [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Add donate links to logs](https://github.com/netbootxyz/docker-netbootxyz/pull/80) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [Test trivy for PRs](https://github.com/netbootxyz/docker-netbootxyz/pull/79) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [Bump version to 0.7.4](https://github.com/netbootxyz/webapp/pull/84) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 week ago)
-- [Update to latest ISO versions](https://github.com/jetkvm/kvm/pull/78) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (4 weeks ago)
 
 #### ⭐ Recent stars
 
