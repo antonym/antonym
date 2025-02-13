@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
 - [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
 - [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Add donate links to logs](https://github.com/netbootxyz/docker-netbootxyz/pull/80) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [Test trivy for PRs](https://github.com/netbootxyz/docker-netbootxyz/pull/79) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
-- [Bump version to 0.7.4](https://github.com/netbootxyz/webapp/pull/84) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 week ago)
 
 #### ⭐ Recent stars
 
