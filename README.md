@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 day ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 day ago)
-- [netbootxyz/core](https://github.com/netbootxyz/core) (1 day ago)
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (2 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (2 days ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 days ago)
+- [netbootxyz/core](https://github.com/netbootxyz/core) (2 days ago)
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,17 +24,17 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (today)
-- [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
-- [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (today)
+- [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 day ago)
+- [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
+- [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
 - [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Add donate links to logs](https://github.com/netbootxyz/docker-netbootxyz/pull/80) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) (2 days ago)
-- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (6 days ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 week ago)
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) (3 days ago)
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (1 week ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 weeks ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 weeks ago)
 
