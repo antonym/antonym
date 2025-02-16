@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (today)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 days ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (3 days ago)
-- [netbootxyz/core](https://github.com/netbootxyz/core) (3 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (3 days ago)
+- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (4 days ago)
+- [netbootxyz/core](https://github.com/netbootxyz/core) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,17 +24,17 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Optimize size with multi stage build](https://github.com/netbootxyz/docker-netbootxyz/pull/82) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (today)
-- [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 days ago)
-- [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (2 days ago)
-- [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (2 days ago)
+- [Optimize size with multi stage build](https://github.com/netbootxyz/docker-netbootxyz/pull/82) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
+- [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 days ago)
+- [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (3 days ago)
+- [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (3 days ago)
 - [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (1 day ago)
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (1 day ago)
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) (4 days ago)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (2 days ago)
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (2 days ago)
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) (5 days ago)
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (1 week ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 
