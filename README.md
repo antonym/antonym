@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (3 days ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 days ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (5 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [update broken slug](https://github.com/netbootxyz/netboot.xyz-docs/pull/129) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (today)
 - [Optimize size with multi stage build](https://github.com/netbootxyz/docker-netbootxyz/pull/82) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (3 days ago)
 - [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
 - [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (5 days ago)
 - [ Uncontrolled data used in path expression](https://github.com/netbootxyz/webapp/pull/85) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (5 days ago)
-- [Doc refactor, updated docker docs](https://github.com/netbootxyz/netboot.xyz-docs/pull/125) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 
 #### ⭐ Recent stars
 
