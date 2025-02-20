@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (5 days ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (5 days ago)
