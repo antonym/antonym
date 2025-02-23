@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (1 week ago)
 
@@ -24,8 +24,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.85-RC](https://github.com/netbootxyz/netboot.xyz/pull/1576) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [update broken slug](https://github.com/netbootxyz/netboot.xyz-docs/pull/129) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (4 days ago)
+- [Release 2.0.85-RC](https://github.com/netbootxyz/netboot.xyz/pull/1576) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [update broken slug](https://github.com/netbootxyz/netboot.xyz-docs/pull/129) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
 - [Optimize size with multi stage build](https://github.com/netbootxyz/docker-netbootxyz/pull/82) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [Add UEFI booting method documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/128) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Incomplete URL substring sanitization](https://github.com/netbootxyz/webapp/pull/86) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 week ago)
