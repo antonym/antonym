@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (6 days ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 week ago)
 - [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 week ago)
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
 - [Add NFS support to the PXE rom](https://github.com/netbootxyz/netboot.xyz/pull/1587) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
 - [Release 2.0.85](https://github.com/netbootxyz/netboot.xyz/pull/1577) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.85-RC](https://github.com/netbootxyz/netboot.xyz/pull/1576) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [update broken slug](https://github.com/netbootxyz/netboot.xyz-docs/pull/129) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
 
 #### ⭐ Recent stars
 
