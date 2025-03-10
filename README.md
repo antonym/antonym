@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (today)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (today)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
 - [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,16 +24,16 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
-- [Add NFS support to the PXE rom](https://github.com/netbootxyz/netboot.xyz/pull/1587) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
+- [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (2 days ago)
+- [Add NFS support to the PXE rom](https://github.com/netbootxyz/netboot.xyz/pull/1587) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
 - [Release 2.0.85](https://github.com/netbootxyz/netboot.xyz/pull/1577) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.85-RC](https://github.com/netbootxyz/netboot.xyz/pull/1576) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (2 days ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (5 days ago)
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (3 days ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (6 days ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (1 week ago)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (3 weeks ago)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (3 weeks ago)
