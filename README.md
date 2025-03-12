@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (today)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
-- [netbootxyz/core-image](https://github.com/netbootxyz/core-image) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update netboot.xyz logo to latest](https://github.com/jetkvm/kvm/pull/253) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (today)
 - [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
 - [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (4 days ago)
 - [Add NFS support to the PXE rom](https://github.com/netbootxyz/netboot.xyz/pull/1587) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.85](https://github.com/netbootxyz/netboot.xyz/pull/1577) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 2.0.85-RC](https://github.com/netbootxyz/netboot.xyz/pull/1576) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
