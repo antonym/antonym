@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (1 day ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (4 days ago)
 - [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.86](https://github.com/netbootxyz/netboot.xyz/pull/1594) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
+- [Release 2.0.86-RC](https://github.com/netbootxyz/netboot.xyz/pull/1593) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Update netboot.xyz logo to latest](https://github.com/jetkvm/kvm/pull/253) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (1 day ago)
 - [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 days ago)
 - [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (5 days ago)
-- [Add NFS support to the PXE rom](https://github.com/netbootxyz/netboot.xyz/pull/1587) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Release 2.0.85](https://github.com/netbootxyz/netboot.xyz/pull/1577) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
