@@ -9,10 +9,10 @@ hacking on hardware, software, and helping others learn about technology.
 #### 👷 Check out what I'm currently working on
 
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 day ago)
+- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (1 week ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 weeks ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [build](https://github.com/stackers-network/buildpacks/pull/5) on [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (today)
 - [Release 2.0.86](https://github.com/netbootxyz/netboot.xyz/pull/1594) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 2.0.86-RC](https://github.com/netbootxyz/netboot.xyz/pull/1593) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Update netboot.xyz logo to latest](https://github.com/jetkvm/kvm/pull/253) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (1 week ago)
 - [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Add dark mode](https://github.com/netbootxyz/webapp/pull/89) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (2 weeks ago)
 
 #### ⭐ Recent stars
 
