@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (today)
 - [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (today)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (2 days ago)
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (2 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (4 days ago)
 - [netbootxyz/debian-core-12](https://github.com/netbootxyz/debian-core-12) (4 days ago)
 
