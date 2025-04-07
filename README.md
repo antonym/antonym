@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (today)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (today)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 day ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 day ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/debian-core-12](https://github.com/netbootxyz/debian-core-12) (1 week ago)
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (4 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (6 days ago)
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (5 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (3 weeks ago)
