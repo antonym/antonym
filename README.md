@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 day ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 day ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (2 days ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (2 days ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/debian-core-12](https://github.com/netbootxyz/debian-core-12) (1 week ago)
@@ -28,11 +28,11 @@ hacking on hardware, software, and helping others learn about technology.
 - [Release 2.0.86](https://github.com/netbootxyz/netboot.xyz/pull/1594) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Release 2.0.86-RC](https://github.com/netbootxyz/netboot.xyz/pull/1593) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Update netboot.xyz logo to latest](https://github.com/jetkvm/kvm/pull/253) on [jetkvm/kvm](https://github.com/jetkvm/kvm) (3 weeks ago)
-- [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
+- [Initial support for Kairos](https://github.com/netbootxyz/netboot.xyz/pull/1591) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (5 days ago)
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (6 days ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
@@ -43,7 +43,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [PXE Booting on the Steam Deck](https://www.reversengineered.com/2022/08/02/pxe-booting-on-the-steam-deck/) (2 years ago)
 - [Keeping Up to Date with Renovate](https://www.reversengineered.com/2022/03/13/keeping-up-to-date-with-renovate/) (3 years ago)
 - [Leveraging GitLab for CI CD Deployments of OpenStack](https://www.reversengineered.com/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (5 years ago)
-- [Upgrading Kolla Ansible for Deploying OpenStack](https://www.reversengineered.com/2019/05/10/upgrading-kolla-ansible-for-deploying-openstack/) (5 years ago)
+- [Upgrading Kolla Ansible for Deploying OpenStack](https://www.reversengineered.com/2019/05/10/upgrading-kolla-ansible-for-deploying-openstack/) (6 years ago)
 - [My Home Networking Setup](https://www.reversengineered.com/2017/07/29/my-home-networking-setup/) (7 years ago)
 
 #### 💬 Feedback
