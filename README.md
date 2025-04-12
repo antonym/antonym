@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (today)
 - [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (today)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (2 days ago)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (4 days ago)
 - [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (6 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 
 #### 🌱 My latest projects
 
