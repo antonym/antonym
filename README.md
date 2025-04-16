@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (today)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (3 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (3 days ago)
-- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (4 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (4 days ago)
+- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (6 days ago)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (1 week ago)
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (2 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 weeks ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
