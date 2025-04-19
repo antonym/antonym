@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 day ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (6 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 days ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 week ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (today)
+- [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (1 day ago)
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (2 weeks ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 weeks ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 weeks ago)
