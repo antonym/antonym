@@ -33,8 +33,8 @@ hacking on hardware, software, and helping others learn about technology.
 #### ⭐ Recent stars
 
 - [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (1 week ago)
-- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (3 weeks ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (4 weeks ago)
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (4 weeks ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 month ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
 
