@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) - Reference Kolla Ansible Deployment of Openstack (4 days ago)
-- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (5 days ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (6 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (6 days ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (6 days ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 day ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) - Reference Kolla Ansible Deployment of Openstack (5 days ago)
+- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (6 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (3 weeks ago)
+- [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (1 day ago)
+- [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (4 weeks ago)
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (1 month ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 month ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
 
 #### 📜 My recent blog posts
 
