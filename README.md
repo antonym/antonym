@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 day ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (2 days ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (6 days ago)
 - [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) - Reference Kolla Ansible Deployment of Openstack (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 week ago)
 
 #### 🌱 My latest projects
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Adds CachyOS](https://github.com/netbootxyz/netboot.xyz/pull/1629) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
 - [Ubuntu spins](https://github.com/netbootxyz/netboot.xyz/pull/1620) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.87](https://github.com/netbootxyz/netboot.xyz/pull/1619) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.87-RC](https://github.com/netbootxyz/netboot.xyz/pull/1618) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Update iso info 20250417](https://github.com/netbootxyz/ubuntu-spins/pull/5) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
-- [Update ISO information for ubuntu, xubuntu, xubuntu, ubuntu-budgie, l…](https://github.com/netbootxyz/ubuntu-spins/pull/2) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 
 #### ⭐ Recent stars
 
