@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (2 days ago)
-- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) - Reference Kolla Ansible Deployment of Openstack (5 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (6 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (6 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 day ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Enhance README with professional formatting and comprehensive documentation](https://github.com/netbootxyz/webapp/pull/100) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
+- [Add comprehensive test suite and CI integration](https://github.com/netbootxyz/webapp/pull/94) on [netbootxyz/webapp](https://github.com/netbootxyz/webapp) (1 day ago)
+- [Add container healthchecks](https://github.com/netbootxyz/docker-netbootxyz/pull/86) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
 - [Adds CachyOS](https://github.com/netbootxyz/netboot.xyz/pull/1629) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Ubuntu spins](https://github.com/netbootxyz/netboot.xyz/pull/1620) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.87](https://github.com/netbootxyz/netboot.xyz/pull/1619) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.87-RC](https://github.com/netbootxyz/netboot.xyz/pull/1618) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Update iso info 20250417](https://github.com/netbootxyz/ubuntu-spins/pull/5) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 
 #### ⭐ Recent stars
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (3 weeks ago)
 - [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (1 month ago)
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images (2 months ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 months ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 months ago)
 
 #### 📜 My recent blog posts
 
