@@ -8,19 +8,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [antonym/openstack-canary](https://github.com/antonym/openstack-canary) - openstack-canary (1 day ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [antonym/openstack-canary](https://github.com/antonym/openstack-canary) - openstack-canary
 - [antonym/playground](https://github.com/antonym/playground)
 - [antonym/utility-load](https://github.com/antonym/utility-load)
 - [antonym/autobench](https://github.com/antonym/autobench)
 - [antonym/reversengineered.com](https://github.com/antonym/reversengineered.com) - Source code for reversengineered.com blog
-- [antonym/terraform-demo](https://github.com/antonym/terraform-demo) - Demonstration repo of multi-cloud deployment with Terraform and Ansible
 
 #### 🔨 Latest Pull Requests I published
 
@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ruvnet/claude-code-flow](https://github.com/ruvnet/claude-code-flow) - This mode serves as a code-first swarm orchestration layer, enabling Claude Code to write, edit, test, and optimize code autonomously across recursive agent cycles. (2 weeks ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 weeks ago)
+- [ruvnet/claude-code-flow](https://github.com/ruvnet/claude-code-flow) - This mode serves as a code-first swarm orchestration layer, enabling Claude Code to write, edit, test, and optimize code autonomously across recursive agent cycles. (3 weeks ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (3 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (3 weeks ago)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (1 month ago)
 - [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (2 months ago)
