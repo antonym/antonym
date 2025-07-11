@@ -32,8 +32,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (3 days ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (4 weeks ago)
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (4 days ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (1 month ago)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (1 month ago)
 - [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (2 months ago)
