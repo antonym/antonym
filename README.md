@@ -32,7 +32,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (4 days ago)
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (5 days ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (1 month ago)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (1 month ago)
@@ -42,7 +42,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [PXE Booting on the Steam Deck](https://www.reversengineered.com/2022/08/02/pxe-booting-on-the-steam-deck/) (2 years ago)
 - [Keeping Up to Date with Renovate](https://www.reversengineered.com/2022/03/13/keeping-up-to-date-with-renovate/) (3 years ago)
-- [Leveraging GitLab for CI CD Deployments of OpenStack](https://www.reversengineered.com/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (5 years ago)
+- [Leveraging GitLab for CI CD Deployments of OpenStack](https://www.reversengineered.com/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (6 years ago)
 - [Upgrading Kolla Ansible for Deploying OpenStack](https://www.reversengineered.com/2019/05/10/upgrading-kolla-ansible-for-deploying-openstack/) (6 years ago)
 - [My Home Networking Setup](https://www.reversengineered.com/2017/07/29/my-home-networking-setup/) (8 years ago)
 
