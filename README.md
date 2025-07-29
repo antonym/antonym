@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (2 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 day ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (3 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 weeks ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Release 2.0.88-RC](https://github.com/netbootxyz/netboot.xyz/pull/1650) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [docs: fix custom menu chain command from custom/custom.ipxe to custom.ipxe](https://github.com/netbootxyz/netboot.xyz-docs/pull/145) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
 - [Add documentation for custom menus using web interface](https://github.com/netbootxyz/netboot.xyz-docs/pull/144) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
 - [Let master process run as root to bind to 80, workers run as nbxyz](https://github.com/netbootxyz/docker-netbootxyz/pull/95) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
 - [Remove gosu so that ports can bind](https://github.com/netbootxyz/docker-netbootxyz/pull/94) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
-- [Testing](https://github.com/netbootxyz/netboot.xyz/pull/1639) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
