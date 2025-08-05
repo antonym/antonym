@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.88-RC](https://github.com/netbootxyz/netboot.xyz/pull/1650) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Release 2.0.88-RC](https://github.com/netbootxyz/netboot.xyz/pull/1650) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [docs: fix custom menu chain command from custom/custom.ipxe to custom.ipxe](https://github.com/netbootxyz/netboot.xyz-docs/pull/145) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
 - [Add documentation for custom menus using web interface](https://github.com/netbootxyz/netboot.xyz-docs/pull/144) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
 - [Let master process run as root to bind to 80, workers run as nbxyz](https://github.com/netbootxyz/docker-netbootxyz/pull/95) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
