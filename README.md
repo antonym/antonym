@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 week ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (2 weeks ago)
+- [netbootxyz/debian-core-12](https://github.com/netbootxyz/debian-core-12) (1 day ago)
+- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update CHANGELOG.md for 2.0.88-RC release](https://github.com/netbootxyz/netboot.xyz/pull/1658) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [Add Debian 13 (trixie) net installer](https://github.com/netbootxyz/netboot.xyz/pull/1657) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
-- [Fix Fedora CoreOS kernel filename format](https://github.com/netbootxyz/netboot.xyz/pull/1656) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Release 2.0.88](https://github.com/netbootxyz/netboot.xyz/pull/1659) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Update CHANGELOG.md for 2.0.88-RC release](https://github.com/netbootxyz/netboot.xyz/pull/1658) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Add Debian 13 (trixie) net installer](https://github.com/netbootxyz/netboot.xyz/pull/1657) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
+- [Fix Fedora CoreOS kernel filename format](https://github.com/netbootxyz/netboot.xyz/pull/1656) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
 - [Release 2.0.88-RC](https://github.com/netbootxyz/netboot.xyz/pull/1650) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [docs: fix custom menu chain command from custom/custom.ipxe to custom.ipxe](https://github.com/netbootxyz/netboot.xyz-docs/pull/145) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
 
 #### ⭐ Recent stars
 
+- [mendableai/open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds (1 day ago)
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (1 month ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 month ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (2 months ago)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (2 months ago)
-- [ovn-org/ovn](https://github.com/ovn-org/ovn) - Open Virtual Network (3 months ago)
 
 #### 📜 My recent blog posts
 
