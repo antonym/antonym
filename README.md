@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 days ago)
-- [netbootxyz/debian-squash](https://github.com/netbootxyz/debian-squash) - Asset repo for Debian flavor SquashFS files (3 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 day ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/debian-squash](https://github.com/netbootxyz/debian-squash) - Asset repo for Debian flavor SquashFS files (4 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
-- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (1 week ago)
 
 #### 🌱 My latest projects
 
