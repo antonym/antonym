@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (4 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (6 days ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (5 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/debian-squash](https://github.com/netbootxyz/debian-squash) - Asset repo for Debian flavor SquashFS files (1 week ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add KB article for TFTP filename interpretation issues](https://github.com/netbootxyz/netboot.xyz-docs/pull/150) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
+- [Add KB article for TFTP filename interpretation issues](https://github.com/netbootxyz/netboot.xyz-docs/pull/150) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
 - [Release 2.0.88](https://github.com/netbootxyz/netboot.xyz/pull/1659) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Update CHANGELOG.md for 2.0.88-RC release](https://github.com/netbootxyz/netboot.xyz/pull/1658) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Add Debian 13 (trixie) net installer](https://github.com/netbootxyz/netboot.xyz/pull/1657) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
