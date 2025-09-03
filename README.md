@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 day ago)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds (3 weeks ago)
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (1 month ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 months ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (2 months ago)
-- [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (3 months ago)
 
 #### 📜 My recent blog posts
 
