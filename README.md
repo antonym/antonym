@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (3 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
-- [netbootxyz/debian-squash](https://github.com/netbootxyz/debian-squash) - Asset repo for Debian flavor SquashFS files (3 weeks ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 weeks ago)
+- [stackers-network/buildpacks](https://github.com/stackers-network/buildpacks) (1 day ago)
+- [stackers-network/kolla-deploy](https://github.com/stackers-network/kolla-deploy) - Reference Kolla Ansible Deployment of Openstack (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (4 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add KB article for TFTP filename interpretation issues](https://github.com/netbootxyz/netboot.xyz-docs/pull/150) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
+- [Improve documentation site UX and developer workflow](https://github.com/netbootxyz/netboot.xyz-docs/pull/156) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 day ago)
+- [Add KB article for TFTP filename interpretation issues](https://github.com/netbootxyz/netboot.xyz-docs/pull/150) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (4 weeks ago)
 - [Release 2.0.88](https://github.com/netbootxyz/netboot.xyz/pull/1659) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
 - [Update CHANGELOG.md for 2.0.88-RC release](https://github.com/netbootxyz/netboot.xyz/pull/1658) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
-- [Add Debian 13 (trixie) net installer](https://github.com/netbootxyz/netboot.xyz/pull/1657) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
-- [Fix Fedora CoreOS kernel filename format](https://github.com/netbootxyz/netboot.xyz/pull/1656) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
+- [Add Debian 13 (trixie) net installer](https://github.com/netbootxyz/netboot.xyz/pull/1657) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (4 days ago)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (5 days ago)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds (4 weeks ago)
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. (2 months ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 months ago)
