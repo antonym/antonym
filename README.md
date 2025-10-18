@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (6 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
-- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (6 days ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 week ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 day ago)
+- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (2 days ago)
+- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (1 week ago)
+- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add local ISO mirror support with BitTorrent downloads](https://github.com/netbootxyz/ubuntu-spins/pull/21) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (6 days ago)
-- [Add Ubuntu Studio and Ubuntu Cinnamon to boot menu](https://github.com/netbootxyz/mini-iso-tools/pull/1) on [netbootxyz/mini-iso-tools](https://github.com/netbootxyz/mini-iso-tools) (6 days ago)
-- [Additional improvements: workflow fix, format validation, and documentation](https://github.com/netbootxyz/ubuntu-spins/pull/16) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (6 days ago)
-- [Major improvements: fast checksums, 24.04.3 support, comprehensive do…](https://github.com/netbootxyz/ubuntu-spins/pull/15) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (6 days ago)
-- [Improve documentation site UX and developer workflow](https://github.com/netbootxyz/netboot.xyz-docs/pull/156) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 month ago)
+- [Release 2.0.89-RC](https://github.com/netbootxyz/netboot.xyz/pull/1688) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [Add local ISO mirror support with BitTorrent downloads](https://github.com/netbootxyz/ubuntu-spins/pull/21) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 week ago)
+- [Add Ubuntu Studio and Ubuntu Cinnamon to boot menu](https://github.com/netbootxyz/mini-iso-tools/pull/1) on [netbootxyz/mini-iso-tools](https://github.com/netbootxyz/mini-iso-tools) (1 week ago)
+- [Additional improvements: workflow fix, format validation, and documentation](https://github.com/netbootxyz/ubuntu-spins/pull/16) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 week ago)
+- [Major improvements: fast checksums, 24.04.3 support, comprehensive do…](https://github.com/netbootxyz/ubuntu-spins/pull/15) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 week ago)
 
 #### ⭐ Recent stars
 
