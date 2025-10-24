@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (6 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
 - [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (1 week ago)
 - [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (1 week ago)
 
@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 2.0.89-RC](https://github.com/netbootxyz/netboot.xyz/pull/1688) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Release 2.0.89-RC](https://github.com/netbootxyz/netboot.xyz/pull/1688) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Add local ISO mirror support with BitTorrent downloads](https://github.com/netbootxyz/ubuntu-spins/pull/21) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 week ago)
 - [Add Ubuntu Studio and Ubuntu Cinnamon to boot menu](https://github.com/netbootxyz/mini-iso-tools/pull/1) on [netbootxyz/mini-iso-tools](https://github.com/netbootxyz/mini-iso-tools) (1 week ago)
 - [Additional improvements: workflow fix, format validation, and documentation](https://github.com/netbootxyz/ubuntu-spins/pull/16) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 week ago)
