@@ -11,7 +11,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
-- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (1 week ago)
+- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (2 weeks ago)
 - [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (2 weeks ago)
 
 #### 🌱 My latest projects
