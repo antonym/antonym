@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
 - [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
 - [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 weeks ago)
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: remove hardcoded http:// prefix from archlinux_mirror URLs](https://github.com/netbootxyz/netboot.xyz/pull/1704) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Release 2.0.89](https://github.com/netbootxyz/netboot.xyz/pull/1700) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Fix multi-layer initrd extraction for modern distros](https://github.com/netbootxyz/docker-iso-processor/pull/19) on [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
 - [Update renovate to pick up versions](https://github.com/netbootxyz/netboot.xyz/pull/1690) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.89-RC](https://github.com/netbootxyz/netboot.xyz/pull/1688) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Add local ISO mirror support with BitTorrent downloads](https://github.com/netbootxyz/ubuntu-spins/pull/21) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 
 #### ⭐ Recent stars
 
