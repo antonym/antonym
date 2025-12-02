@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (6 days ago)
-- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (6 days ago)
+- [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) - :seedling: Kairos init will transform a normal docker image into a Kairos flavored one (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 day ago)
+- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (1 week ago)
 - [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (2 weeks ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
-- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (1 day ago)
+- [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (1 day ago)
 - [fix: remove hardcoded http:// prefix from archlinux_mirror URLs](https://github.com/netbootxyz/netboot.xyz/pull/1704) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 - [Release 2.0.89](https://github.com/netbootxyz/netboot.xyz/pull/1700) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 - [Fix multi-layer initrd extraction for modern distros](https://github.com/netbootxyz/docker-iso-processor/pull/19) on [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (3 weeks ago)
-- [Update renovate to pick up versions](https://github.com/netbootxyz/netboot.xyz/pull/1690) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
-- [Release 2.0.89-RC](https://github.com/netbootxyz/netboot.xyz/pull/1688) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
 
