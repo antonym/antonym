@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
 - [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (1 week ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
-- [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) - :seedling: Kairos init will transform a normal docker image into a Kairos flavored one (1 week ago)
+- [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) - :seedling: Kairos init will transform a normal docker image into a Kairos flavored one (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ hacking on hardware, software, and helping others learn about technology.
 #### 🔨 Latest Pull Requests I published
 
 - [CI Improvements for testing images](https://github.com/netbootxyz/docker-netbootxyz/pull/116) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
-- [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (1 week ago)
-- [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (1 week ago)
-- [fix: remove hardcoded http:// prefix from archlinux_mirror URLs](https://github.com/netbootxyz/netboot.xyz/pull/1704) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (2 weeks ago)
+- [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (2 weeks ago)
+- [fix: remove hardcoded http:// prefix from archlinux_mirror URLs](https://github.com/netbootxyz/netboot.xyz/pull/1704) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
 - [Release 2.0.89](https://github.com/netbootxyz/netboot.xyz/pull/1700) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 
 #### ⭐ Recent stars
