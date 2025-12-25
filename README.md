@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
 - [stackers-network/hyp-testing](https://github.com/stackers-network/hyp-testing) (2 weeks ago)
 - [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (2 weeks ago)
-- [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) - :seedling: Kairos init will transform a normal docker image into a Kairos flavored one (3 weeks ago)
 
 #### 🌱 My latest projects
 
