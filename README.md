@@ -32,7 +32,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [jkoelker/schwab-mcp](https://github.com/jkoelker/schwab-mcp) - Chat with your portfolio. (6 days ago)
+- [jkoelker/schwab-mcp](https://github.com/jkoelker/schwab-mcp) - Chat with your portfolio. (1 week ago)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 month ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (4 months ago)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds (5 months ago)
