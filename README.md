@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 days ago)
 - [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 month ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 month ago)
-- [netbootxyz/docker-next-server](https://github.com/netbootxyz/docker-next-server) - lightweight tftp docker service with netboot.xyz images (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -24,16 +24,16 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 3.0.0](https://github.com/netbootxyz/netboot.xyz/pull/1740) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
-- [Release 3.0.0-RC](https://github.com/netbootxyz/netboot.xyz/pull/1738) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
+- [Release 3.0.0](https://github.com/netbootxyz/netboot.xyz/pull/1740) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
+- [Release 3.0.0-RC](https://github.com/netbootxyz/netboot.xyz/pull/1738) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
 - [CI Improvements for testing images](https://github.com/netbootxyz/docker-netbootxyz/pull/116) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
 - [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (1 month ago)
 - [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 day ago)
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (2 days ago)
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
 - [jkoelker/schwab-mcp](https://github.com/jkoelker/schwab-mcp) - Chat with your portfolio. (2 weeks ago)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 month ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (4 months ago)
