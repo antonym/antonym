@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 month ago)
@@ -26,7 +26,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [Release 3.0.0](https://github.com/netbootxyz/netboot.xyz/pull/1740) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 3.0.0-RC](https://github.com/netbootxyz/netboot.xyz/pull/1738) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [CI Improvements for testing images](https://github.com/netbootxyz/docker-netbootxyz/pull/116) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 month ago)
+- [CI Improvements for testing images](https://github.com/netbootxyz/docker-netbootxyz/pull/116) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (2 months ago)
 - [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (2 months ago)
 - [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (2 months ago)
 
