@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (5 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (5 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (6 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (6 days ago)
 - [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (1 month ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### 📜 My recent blog posts
 
 - [PXE Booting on the Steam Deck](https://www.reversengineered.com/2022/08/02/pxe-booting-on-the-steam-deck/) (3 years ago)
-- [Keeping Up to Date with Renovate](https://www.reversengineered.com/2022/03/13/keeping-up-to-date-with-renovate/) (3 years ago)
+- [Keeping Up to Date with Renovate](https://www.reversengineered.com/2022/03/13/keeping-up-to-date-with-renovate/) (4 years ago)
 - [Leveraging GitLab for CI CD Deployments of OpenStack](https://www.reversengineered.com/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (6 years ago)
 - [Upgrading Kolla Ansible for Deploying OpenStack](https://www.reversengineered.com/2019/05/10/upgrading-kolla-ansible-for-deploying-openstack/) (6 years ago)
 - [My Home Networking Setup](https://www.reversengineered.com/2017/07/29/my-home-networking-setup/) (8 years ago)
