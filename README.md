@@ -8,19 +8,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
+- [antonym/bootc-rocky](https://github.com/antonym/bootc-rocky) (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
-- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (2 months ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [antonym/bootc-rocky](https://github.com/antonym/bootc-rocky)
 - [antonym/openstack-canary](https://github.com/antonym/openstack-canary) - openstack-canary
 - [antonym/playground](https://github.com/antonym/playground)
 - [antonym/utility-load](https://github.com/antonym/utility-load)
 - [antonym/autobench](https://github.com/antonym/autobench)
-- [antonym/reversengineered.com](https://github.com/antonym/reversengineered.com) - Source code for reversengineered.com blog
 
 #### 🔨 Latest Pull Requests I published
 
