@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [antonym/bootc-rocky](https://github.com/antonym/bootc-rocky) (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
+- [antonym/bootc-rocky](https://github.com/antonym/bootc-rocky) (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 weeks ago)
@@ -27,13 +27,13 @@ hacking on hardware, software, and helping others learn about technology.
 - [Release 3.0.0](https://github.com/netbootxyz/netboot.xyz/pull/1740) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Release 3.0.0-RC](https://github.com/netbootxyz/netboot.xyz/pull/1738) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [CI Improvements for testing images](https://github.com/netbootxyz/docker-netbootxyz/pull/116) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (2 months ago)
-- [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (2 months ago)
-- [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (2 months ago)
+- [Fix path to NetworkManager binary](https://github.com/kairos-io/kairos-init/pull/245) on [kairos-io/kairos-init](https://github.com/kairos-io/kairos-init) (3 months ago)
+- [Fix path to NetworkManager binary](https://github.com/antonym/kairos-init/pull/1) on [antonym/kairos-init](https://github.com/antonym/kairos-init) (3 months ago)
 
 #### ⭐ Recent stars
 
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (3 weeks ago)
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 month ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond. (1 month ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [jkoelker/schwab-mcp](https://github.com/jkoelker/schwab-mcp) - Chat with your portfolio. (1 month ago)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness (2 months ago)
