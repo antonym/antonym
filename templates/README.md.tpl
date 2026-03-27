@@ -27,7 +27,7 @@ hacking on hardware, software, and helping others learn about technology.
 {{- end }}
 
 #### 📜 My recent blog posts
-{{range rss "https://reversengineered.com/posts/index.xml" 5}}
+{{range rss "https://littleknife.dev/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -40,7 +40,7 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 - Twitter: https://twitter.com/ntonym
 - Fediverse: https://fosstodon.org/@antonym
-- Blog: https://reversengineered.com
+- Blog: https://littleknife.dev
 - IRC: antonym on Libera
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonym/antonym/output/github-contribution-grid-snake-dark.svg" />
