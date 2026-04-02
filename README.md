@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
-- [antonym/bootc-rocky](https://github.com/antonym/bootc-rocky) - bootc build for Rocky Linux (4 days ago)
-- [stackers-network/kolla-containers](https://github.com/stackers-network/kolla-containers) (5 days ago)
-- [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader (5 days ago)
+- [agentic-stacks/terraform](https://github.com/agentic-stacks/terraform) - Agentic stack for Terraform/OpenTofu — IaC provisioning, state management, modules, and CI/CD (1 day ago)
+- [agentic-stacks/ansible](https://github.com/agentic-stacks/ansible) - Agentic stack for Ansible automation — playbooks, roles, inventory, vault, and troubleshooting (ansible-core 2.16–2.17) (1 day ago)
+- [agentic-stacks/ceph](https://github.com/agentic-stacks/ceph) - Agentic stack for Ceph storage — cephadm deployment, operations, and troubleshooting on bare metal (Reef/Squid) (1 day ago)
+- [agentic-stacks/hardware-hpe](https://github.com/agentic-stacks/hardware-hpe) - Agentic stack for HPE ProLiant servers — iLO 5/6 Redfish API, OneView, and iLOrest CLI (Gen10/Gen11) (1 day ago)
+- [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -24,23 +24,23 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
-- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
-- [Add changelog entry for 3.0.1 release](https://github.com/netbootxyz/netboot.xyz/pull/1765) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
-- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1764) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
-- [[genfsimg] Add Ubuntu/Debian syslinux mbr search path](https://github.com/ipxe/ipxe/pull/1659) on [ipxe/ipxe](https://github.com/ipxe/ipxe) (5 days ago)
+- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
+- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
+- [Add changelog entry for 3.0.1 release](https://github.com/netbootxyz/netboot.xyz/pull/1765) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1764) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [[genfsimg] Add Ubuntu/Debian syslinux mbr search path](https://github.com/ipxe/ipxe/pull/1659) on [ipxe/ipxe](https://github.com/ipxe/ipxe) (6 days ago)
 
 #### ⭐ Recent stars
 
-- [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (1 day ago)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (4 days ago)
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  (4 days ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (4 days ago)
-- [osism/ovn-network-agent](https://github.com/osism/ovn-network-agent) - Event-driven network agent for OVN-based OpenStack environments. A real-time daemon that watches OVN databases directly via the OVSDB protocol to synchronize Floating IP routes and optionally forward traffic from anycast VIPs to internal backends. (6 days ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (today)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (today)
+- [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (2 days ago)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (5 days ago)
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you  (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (6 days ago)
+- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (1 week ago)
 - [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (3 years ago)
 - [Keeping Up to Date with Renovate](https://littleknife.dev/blog/2022/03/13/keeping-up-to-date-with-renovate/) (4 years ago)
 - [Leveraging GitLab for CI CD Deployments of OpenStack](https://littleknife.dev/blog/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (6 years ago)
