@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (1 day ago)
-- [agentic-stacks/ipxe](https://github.com/agentic-stacks/ipxe) - Agentic stack for iPXE network boot — build, deploy, and operate PXE infrastructure across bare metal and virtual environments (1 day ago)
-- [agentic-stacks/hardware-supermicro](https://github.com/agentic-stacks/hardware-supermicro) - Agentic stack for Supermicro servers — Redfish BMC, BIOS, RAID, and firmware management (X11/X12/X13) (1 day ago)
-- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 day ago)
-- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 day ago)
+- [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (2 days ago)
+- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (2 days ago)
+- [agentic-stacks/hardware-supermicro](https://github.com/agentic-stacks/hardware-supermicro) - Agentic stack for Supermicro servers — Redfish BMC, BIOS, RAID, and firmware management (X11/X12/X13) (2 days ago)
+- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (2 days ago)
+- [agentic-stacks/frr](https://github.com/agentic-stacks/frr) - Agentic stack for FRRouting — BGP, OSPF, VXLAN, EVPN, and network infrastructure operations (FRR 9.x–10.x) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 days ago)
-- [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (6 days ago)
-- [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (6 days ago)
+- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (4 days ago)
+- [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
+- [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
 - [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (2 days ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (3 days ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
 - [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (1 week ago)
