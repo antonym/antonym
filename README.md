@@ -9,10 +9,10 @@ hacking on hardware, software, and helping others learn about technology.
 #### 👷 Check out what I'm currently working on
 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [agentic-stacks/docker](https://github.com/agentic-stacks/docker) - Agentic stack for Docker — building, deploying, managing, and troubleshooting containerized applications (Engine 27.x) (4 days ago)
-- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (4 days ago)
-- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (4 days ago)
-- [agentic-stacks/hardware-supermicro](https://github.com/agentic-stacks/hardware-supermicro) - Agentic stack for Supermicro servers — Redfish BMC, BIOS, RAID, and firmware management (X11/X12/X13) (4 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [agentic-stacks/ipxe](https://github.com/agentic-stacks/ipxe) - Agentic stack for iPXE network boot — build, deploy, and operate PXE infrastructure across bare metal and virtual environments (5 days ago)
+- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (5 days ago)
+- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (6 days ago)
+- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
 - [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
 - [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
-- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
+- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (5 days ago)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (6 days ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
 - [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (1 week ago)
