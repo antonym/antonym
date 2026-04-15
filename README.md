@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
-- [agentic-stacks/docker](https://github.com/agentic-stacks/docker) - Agentic stack for Docker — building, deploying, managing, and troubleshooting containerized applications (Engine 27.x) (6 days ago)
-- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (6 days ago)
-- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
+- [agentic-stacks/docker](https://github.com/agentic-stacks/docker) - Agentic stack for Docker — building, deploying, managing, and troubleshooting containerized applications (Engine 27.x) (1 week ago)
+- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
+- [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
+- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (1 day ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
 - [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (2 weeks ago)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (2 weeks ago)
 
 #### 📜 My recent blog posts
 
