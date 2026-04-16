@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 - [agentic-stacks/docker](https://github.com/agentic-stacks/docker) - Agentic stack for Docker — building, deploying, managing, and troubleshooting containerized applications (Engine 27.x) (1 week ago)
 - [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
 - [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 week ago)
@@ -32,16 +32,16 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (1 day ago)
+- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (2 days ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (2 weeks ago)
 - [coryszatkowski/ClawDeck](https://github.com/coryszatkowski/ClawDeck) - Stream Deck controller for Claude Code — visual status, window tiling, and quick actions (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (1 week ago)
-- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (2 weeks ago)
+- [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (2 weeks ago)
+- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (3 weeks ago)
 - [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (3 years ago)
 - [Keeping Up to Date with Renovate](https://littleknife.dev/blog/2022/03/13/keeping-up-to-date-with-renovate/) (4 years ago)
 - [Leveraging GitLab for CI CD Deployments of OpenStack](https://littleknife.dev/blog/2019/08/13/leveraging-gitlab-for-ci-cd-deployments-of-openstack/) (6 years ago)
