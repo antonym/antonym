@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
 - [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (1 week ago)
 - [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
 - [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 week ago)
@@ -32,11 +32,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI &#43; Claude Code plugin. (1 day ago)
-- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (3 days ago)
+- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (today)
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI &#43; Claude Code plugin. (2 days ago)
+- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (4 days ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
