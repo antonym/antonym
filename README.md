@@ -8,8 +8,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (1 week ago)
 - [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
 - [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 week ago)
@@ -32,9 +32,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### ⭐ Recent stars
 
-- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (today)
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI &#43; Claude Code plugin. (2 days ago)
-- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (4 days ago)
+- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (1 day ago)
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (3 days ago)
+- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (5 days ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
 
