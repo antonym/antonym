@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
-- [agentic-stacks/openstack-kolla](https://github.com/agentic-stacks/openstack-kolla) - Agentic stack for OpenStack via kolla-ansible — full lifecycle deployment and operations (2025.1–2025.2) (1 week ago)
-- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [agentic-stacks/hardware-supermicro](https://github.com/agentic-stacks/hardware-supermicro) - Agentic stack for Supermicro servers — Redfish BMC, BIOS, RAID, and firmware management (X11/X12/X13) (1 week ago)
 - [agentic-stacks/postgresql](https://github.com/agentic-stacks/postgresql) (1 week ago)
+- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (1 week ago)
+- [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
 - [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
 - [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
-- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (1 day ago)
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (3 days ago)
-- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (5 days ago)
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. (1 day ago)
+- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (2 days ago)
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (4 days ago)
+- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (6 days ago)
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (1 week ago)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
 
 #### 📜 My recent blog posts
 
