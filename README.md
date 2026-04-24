@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (1 day ago)
+- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 day ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
 - [agentic-stacks/docker](https://github.com/agentic-stacks/docker) - Agentic stack for Docker — building, deploying, managing, and troubleshooting containerized applications (Engine 27.x) (2 weeks ago)
-- [agentic-stacks/common-skills](https://github.com/agentic-stacks/common-skills) (2 weeks ago)
-- [agentic-stacks/rails](https://github.com/agentic-stacks/rails) - Agentic stack for Ruby on Rails — full-stack and API-only web applications (Rails 7.x–8.x) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Ubuntu 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/ubuntu-spins/pull/26) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 day ago)
+- [Add 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/netboot.xyz/pull/1779) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
 - [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
-- [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
-- [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (2 weeks ago)
-- [Release 3.0.1-RC](https://github.com/netbootxyz/netboot.xyz/pull/1767) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
-- [Release 3.0.1](https://github.com/netbootxyz/netboot.xyz/pull/1766) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 weeks ago)
+- [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [REPOZY/superpowers-optimized](https://github.com/REPOZY/superpowers-optimized) - Optimized fork of Superpowers — Retains full original features while adding automatic 3-tier workflow routing, integrated safety guards (OWASP-aligned), red-team adversarial testing with auto-fix pipeline, a built-in memory stack, and much more. Delivers faster, more reliable, hallucination-resistant coding sessions. (2 days ago)
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. (4 days ago)
-- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (5 days ago)
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website&#39;s complete design system with one command. DTCG tokens, semantic&#43;primitive&#43;composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20&#43;. (1 week ago)
-- [empegweb/firmware](https://github.com/empegweb/firmware) - Empeg/Rio Car player firmware (1 week ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 day ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 day ago)
+- [REPOZY/superpowers-optimized](https://github.com/REPOZY/superpowers-optimized) - Optimized fork of Superpowers — Retains full original features while adding automatic 3-tier workflow routing, integrated safety guards (OWASP-aligned), red-team adversarial testing with auto-fix pipeline, a built-in memory stack, and much more. Delivers faster, more reliable, hallucination-resistant coding sessions. (3 days ago)
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. (5 days ago)
+- [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (6 days ago)
 
 #### 📜 My recent blog posts
 
