@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) - Installable skill packs that give AI agents deep domain expertise.  (3 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (4 days ago)
-- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (5 days ago)
-- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (5 days ago)
+- [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) - Installable skill packs that give AI agents deep domain expertise.  (4 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (5 days ago)
+- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (6 days ago)
+- [netbootxyz/ubuntu-squash](https://github.com/netbootxyz/ubuntu-squash) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,16 +24,16 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Ubuntu 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/ubuntu-spins/pull/26) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (5 days ago)
-- [Add 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/netboot.xyz/pull/1779) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (5 days ago)
+- [Add Ubuntu 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/ubuntu-spins/pull/26) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (6 days ago)
+- [Add 26.04 LTS Resolute Raccoon](https://github.com/netbootxyz/netboot.xyz/pull/1779) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
 - [Add lint and explain commands](https://github.com/agentic-stacks/agentic-stacks/pull/14) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 weeks ago)
 - [Add skill source links to stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/13) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 weeks ago)
 - [Add source links to skills on stack detail page](https://github.com/agentic-stacks/agentic-stacks/pull/12) on [agentic-stacks/agentic-stacks](https://github.com/agentic-stacks/agentic-stacks) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (5 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (5 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (6 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
 - [REPOZY/superpowers-optimized](https://github.com/REPOZY/superpowers-optimized) - Optimized fork of Superpowers — Retains full original features while adding automatic 3-tier workflow routing, integrated safety guards (OWASP-aligned), red-team adversarial testing with auto-fix pipeline, a built-in memory stack, and much more. Delivers faster, more reliable, hallucination-resistant coding sessions. (1 week ago)
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. (1 week ago)
 - [ruvnet/ruos-macair](https://github.com/ruvnet/ruos-macair) - ruOS for MacBook Air 2012 — custom Linux with DJ, Spotify, Tailscale, and ruOS agent stack (1 week ago)
