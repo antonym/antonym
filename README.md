@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
-- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
-- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 week ago)
+- [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (2 weeks ago)
+- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -27,12 +27,12 @@ hacking on hardware, software, and helping others learn about technology.
 - [Release 3.0.2](https://github.com/netbootxyz/netboot.xyz/pull/1790) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 3.0.2-RC](https://github.com/netbootxyz/netboot.xyz/pull/1786) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [fix: detect single-layer initrds in unmkinitramfs path](https://github.com/netbootxyz/docker-iso-processor/pull/26) on [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
-- [Support arbitrary part counts when splitting large assets](https://github.com/netbootxyz/docker-iso-processor/pull/25) on [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (1 week ago)
-- [Support multi-part airootfs (&gt;2 parts)](https://github.com/netbootxyz/asset-mirror/pull/13) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (1 week ago)
+- [Support arbitrary part counts when splitting large assets](https://github.com/netbootxyz/docker-iso-processor/pull/25) on [netbootxyz/docker-iso-processor](https://github.com/netbootxyz/docker-iso-processor) (2 weeks ago)
+- [Support multi-part airootfs (&gt;2 parts)](https://github.com/netbootxyz/asset-mirror/pull/13) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (2 days ago)
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (3 days ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 week ago)
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! (1 week ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
