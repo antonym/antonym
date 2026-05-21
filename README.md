@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 day ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 day ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 day ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (5 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -24,16 +24,16 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Drop comment-fork job; fork PRs get read-only GITHUB_TOKEN](https://github.com/netbootxyz/docker-netbootxyz/pull/144) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
-- [Skip image publish for fork PRs; document maintainer builds](https://github.com/netbootxyz/docker-netbootxyz/pull/143) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 day ago)
-- [fix(menu): break custom menu fallback loop when chain fails](https://github.com/netbootxyz/netboot.xyz/pull/1796) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
-- [Release 3.0.2](https://github.com/netbootxyz/netboot.xyz/pull/1790) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Release 3.0.2-RC](https://github.com/netbootxyz/netboot.xyz/pull/1786) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [feat: download legacy USB bootloaders at init](https://github.com/netbootxyz/docker-netbootxyz/pull/145) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (today)
+- [docs: add USB keyboard KB article for legacy iPXE images](https://github.com/netbootxyz/netboot.xyz-docs/pull/186) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (today)
+- [Drop comment-fork job; fork PRs get read-only GITHUB_TOKEN](https://github.com/netbootxyz/docker-netbootxyz/pull/144) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (2 days ago)
+- [Skip image publish for fork PRs; document maintainer builds](https://github.com/netbootxyz/docker-netbootxyz/pull/143) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (2 days ago)
+- [fix(menu): break custom menu fallback loop when chain fails](https://github.com/netbootxyz/netboot.xyz/pull/1796) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
 
 #### ⭐ Recent stars
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (1 day ago)
-- [rvbcrs/Novabot](https://github.com/rvbcrs/Novabot) (5 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (2 days ago)
+- [rvbcrs/Novabot](https://github.com/rvbcrs/Novabot) (6 days ago)
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (1 week ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (2 weeks ago)
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! (2 weeks ago)
