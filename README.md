@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 week ago)
 - [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 week ago)
@@ -24,8 +24,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: download legacy USB bootloaders at init](https://github.com/netbootxyz/docker-netbootxyz/pull/145) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (6 days ago)
-- [docs: add USB keyboard KB article for legacy iPXE images](https://github.com/netbootxyz/netboot.xyz-docs/pull/186) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (6 days ago)
+- [feat: download legacy USB bootloaders at init](https://github.com/netbootxyz/docker-netbootxyz/pull/145) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
+- [docs: add USB keyboard KB article for legacy iPXE images](https://github.com/netbootxyz/netboot.xyz-docs/pull/186) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Drop comment-fork job; fork PRs get read-only GITHUB_TOKEN](https://github.com/netbootxyz/docker-netbootxyz/pull/144) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [Skip image publish for fork PRs; document maintainer builds](https://github.com/netbootxyz/docker-netbootxyz/pull/143) on [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) (1 week ago)
 - [fix(menu): break custom menu fallback loop when chain fails](https://github.com/netbootxyz/netboot.xyz/pull/1796) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
@@ -41,7 +41,7 @@ hacking on hardware, software, and helping others learn about technology.
 #### 📜 My recent blog posts
 
 - [Introducing Phosphor: A Music Visualizer for macOS](https://littleknife.dev/blog/2026/04/29/introducing-phosphor/) (4 weeks ago)
-- [A Proven Dual-Mac Dock Setup with One-Button Switching](https://littleknife.dev/blog/2026/04/28/dual-mac-docking-station-setup/) (4 weeks ago)
+- [A Proven Dual-Mac Dock Setup with One-Button Switching](https://littleknife.dev/blog/2026/04/28/dual-mac-docking-station-setup/) (1 month ago)
 - [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (1 month ago)
 - [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (2 months ago)
 - [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (3 years ago)
