@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (5 days ago)
-- [netbootxyz/.github](https://github.com/netbootxyz/.github) (5 days ago)
+- [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (6 days ago)
+- [netbootxyz/.github](https://github.com/netbootxyz/.github) (6 days ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (5 days ago)
-- [feat: animated boot-menu SVG (GIF replacement for org profile)](https://github.com/netbootxyz/netboot.xyz-docs/pull/192) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
-- [fix: right-size homepage hero &amp; headers on mobile](https://github.com/netbootxyz/netboot.xyz-docs/pull/191) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
-- [feat: SEO improvements (robots.txt, JSON-LD, self-hosted fonts)](https://github.com/netbootxyz/netboot.xyz-docs/pull/190) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
-- [chore: clear build warnings (markdown hook &#43; browserslist db)](https://github.com/netbootxyz/netboot.xyz-docs/pull/189) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (5 days ago)
+- [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (6 days ago)
+- [feat: animated boot-menu SVG (GIF replacement for org profile)](https://github.com/netbootxyz/netboot.xyz-docs/pull/192) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (6 days ago)
+- [fix: right-size homepage hero &amp; headers on mobile](https://github.com/netbootxyz/netboot.xyz-docs/pull/191) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (6 days ago)
+- [feat: SEO improvements (robots.txt, JSON-LD, self-hosted fonts)](https://github.com/netbootxyz/netboot.xyz-docs/pull/190) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (6 days ago)
+- [chore: clear build warnings (markdown hook &#43; browserslist db)](https://github.com/netbootxyz/netboot.xyz-docs/pull/189) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (6 days ago)
 
 #### ⭐ Recent stars
 
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents &#43; harnesses, and more. (6 days ago)
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents &#43; harnesses, and more. (1 week ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (2 weeks ago)
-- [rvbcrs/Novabot](https://github.com/rvbcrs/Novabot) (2 weeks ago)
+- [rvbcrs/Novabot](https://github.com/rvbcrs/Novabot) (3 weeks ago)
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities. (3 weeks ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (4 weeks ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work (1 month ago)
 
 #### 📜 My recent blog posts
 
