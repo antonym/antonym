@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
 - [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (2 weeks ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
-- [netbootxyz/.github](https://github.com/netbootxyz/.github) (2 weeks ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 weeks ago)
+- [netbootxyz/.github](https://github.com/netbootxyz/.github) (3 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (1 month ago)
 
 #### 🌱 My latest projects
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (2 weeks ago)
-- [feat: animated boot-menu SVG (GIF replacement for org profile)](https://github.com/netbootxyz/netboot.xyz-docs/pull/192) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
-- [fix: right-size homepage hero &amp; headers on mobile](https://github.com/netbootxyz/netboot.xyz-docs/pull/191) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
-- [feat: SEO improvements (robots.txt, JSON-LD, self-hosted fonts)](https://github.com/netbootxyz/netboot.xyz-docs/pull/190) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
-- [chore: clear build warnings (markdown hook &#43; browserslist db)](https://github.com/netbootxyz/netboot.xyz-docs/pull/189) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 weeks ago)
+- [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (3 weeks ago)
+- [feat: animated boot-menu SVG (GIF replacement for org profile)](https://github.com/netbootxyz/netboot.xyz-docs/pull/192) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
+- [fix: right-size homepage hero &amp; headers on mobile](https://github.com/netbootxyz/netboot.xyz-docs/pull/191) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
+- [feat: SEO improvements (robots.txt, JSON-LD, self-hosted fonts)](https://github.com/netbootxyz/netboot.xyz-docs/pull/190) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
+- [chore: clear build warnings (markdown hook &#43; browserslist db)](https://github.com/netbootxyz/netboot.xyz-docs/pull/189) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (3 weeks ago)
 
 #### ⭐ Recent stars
 
