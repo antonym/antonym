@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
 - [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (3 weeks ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (3 weeks ago)
 - [netbootxyz/.github](https://github.com/netbootxyz/.github) (3 weeks ago)
@@ -34,7 +34,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (2 weeks ago)
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents &#43; harnesses, and more. (3 weeks ago)
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents &#43; harnesses, and more. (4 weeks ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (1 month ago)
 - [rvbcrs/Novabot](https://github.com/rvbcrs/Novabot) (1 month ago)
 
