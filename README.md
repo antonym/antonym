@@ -8,7 +8,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (6 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
 - [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (1 month ago)
 - [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 month ago)
 - [netbootxyz/.github](https://github.com/netbootxyz/.github) (1 month ago)
@@ -44,7 +44,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [A Proven Dual-Mac Dock Setup with One-Button Switching](https://littleknife.dev/blog/2026/04/28/dual-mac-docking-station-setup/) (2 months ago)
 - [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (3 months ago)
 - [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (3 months ago)
-- [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (3 years ago)
+- [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (4 years ago)
 
 #### 💬 Feedback
 
