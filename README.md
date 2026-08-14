@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 days ago)
-- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (3 days ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
+- [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (3 days ago)
+- [netbootxyz/pipeline-gen](https://github.com/netbootxyz/pipeline-gen) (4 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (5 days ago)
 - [stackers-network/openstack-knowledge](https://github.com/stackers-network/openstack-knowledge) - Composed OpenStack expertise for AI agents — the knowledge base behind Learn OpenStack on stackers.network (2 months ago)
 
 #### 🌱 My latest projects
@@ -24,8 +24,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add arm64 Proxmox VE and gate the Proxmox menu by architecture](https://github.com/netbootxyz/netboot.xyz/pull/1813) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 days ago)
-- [Add proxmox-ve-arm64 workflow](https://github.com/netbootxyz/asset-mirror/pull/14) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (3 days ago)
+- [Add arm64 Proxmox VE and gate the Proxmox menu by architecture](https://github.com/netbootxyz/netboot.xyz/pull/1813) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 days ago)
+- [Add proxmox-ve-arm64 workflow](https://github.com/netbootxyz/asset-mirror/pull/14) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (4 days ago)
 - [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (2 months ago)
 - [feat: animated boot-menu SVG (GIF replacement for org profile)](https://github.com/netbootxyz/netboot.xyz-docs/pull/192) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 months ago)
 - [fix: right-size homepage hero &amp; headers on mobile](https://github.com/netbootxyz/netboot.xyz-docs/pull/191) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 months ago)
