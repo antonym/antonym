@@ -8,9 +8,9 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/debian-core-13](https://github.com/netbootxyz/debian-core-13) (3 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 weeks ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 weeks ago)
 
@@ -24,19 +24,19 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Release 3.0.3](https://github.com/netbootxyz/netboot.xyz/pull/1824) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
-- [Release 3.0.3-RC](https://github.com/netbootxyz/netboot.xyz/pull/1818) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
-- [Add arm64 Proxmox VE and gate the Proxmox menu by architecture](https://github.com/netbootxyz/netboot.xyz/pull/1813) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
-- [Add proxmox-ve-arm64 workflow](https://github.com/netbootxyz/asset-mirror/pull/14) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (2 weeks ago)
+- [Release 3.0.3](https://github.com/netbootxyz/netboot.xyz/pull/1824) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 days ago)
+- [Release 3.0.3-RC](https://github.com/netbootxyz/netboot.xyz/pull/1818) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 weeks ago)
+- [Add arm64 Proxmox VE and gate the Proxmox menu by architecture](https://github.com/netbootxyz/netboot.xyz/pull/1813) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
+- [Add proxmox-ve-arm64 workflow](https://github.com/netbootxyz/asset-mirror/pull/14) on [netbootxyz/asset-mirror](https://github.com/netbootxyz/asset-mirror) (3 weeks ago)
 - [profile: use animated boot-menu SVG instead of the static gif](https://github.com/netbootxyz/.github/pull/1) on [netbootxyz/.github](https://github.com/netbootxyz/.github) (3 months ago)
 
 #### ⭐ Recent stars
 
+- [pirxpilot/liftie](https://github.com/pirxpilot/liftie) - :ski: Clean, simple, easy to read, fast ski resort lift status. (1 day ago)
+- [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT. (1 day ago)
 - [aethersdr/AetherSDR](https://github.com/aethersdr/AetherSDR) - Native amateur-radio workstation for FlexRadio (FLEX-6000/8000/Aurora) — Linux, macOS, Windows · Qt6 &#43; C&#43;&#43;20 (1 week ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (1 month ago)
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI (2 months ago)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create. (2 months ago)
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 months ago)
 
 #### 📜 My recent blog posts
 
