@@ -8,11 +8,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
-- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (1 week ago)
-- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (1 week ago)
+- [netbootxyz/webapp](https://github.com/netbootxyz/webapp) - NodeJS helper Application for managing local deployments of netboot.xyz (2 weeks ago)
+- [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) - netboot.xyz documentation repository (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Show ShredOS version matching the detected architecture](https://github.com/netbootxyz/netboot.xyz/pull/1832) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (6 days ago)
+- [Show ShredOS version matching the detected architecture](https://github.com/netbootxyz/netboot.xyz/pull/1832) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Remove Equinix Metal documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/200) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (1 week ago)
 - [Remove Equinix Metal support](https://github.com/netbootxyz/netboot.xyz/pull/1830) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 week ago)
 - [Release 3.0.3](https://github.com/netbootxyz/netboot.xyz/pull/1824) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (3 weeks ago)
@@ -43,7 +43,7 @@ hacking on hardware, software, and helping others learn about technology.
 - [Introducing Phosphor: A Music Visualizer for macOS](https://littleknife.dev/blog/2026/04/29/introducing-phosphor/) (4 months ago)
 - [A Proven Dual-Mac Dock Setup with One-Button Switching](https://littleknife.dev/blog/2026/04/28/dual-mac-docking-station-setup/) (4 months ago)
 - [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (5 months ago)
-- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (5 months ago)
+- [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (6 months ago)
 - [PXE Booting on the Steam Deck](https://littleknife.dev/blog/2022/08/02/pxe-booting-on-the-steam-deck/) (4 years ago)
 
 #### 💬 Feedback
