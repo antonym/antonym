@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (1 day ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
 - [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (2 weeks ago)
-- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (4 weeks ago)
+- [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 month ago)
 - [netbootxyz/pipeline-status](https://github.com/netbootxyz/pipeline-status) - netboot.xyz Pipeline Status Generator (2 months ago)
 
 #### 🌱 My latest projects
@@ -24,15 +24,15 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Restrict GITHUB_TOKEN to read-only in pull-requests workflow](https://github.com/netbootxyz/netboot.xyz/pull/1841) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (4 weeks ago)
-- [Add Ubuntu 26.10, refresh point releases, remove dead code](https://github.com/netbootxyz/ubuntu-spins/pull/32) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (4 weeks ago)
+- [Restrict GITHUB_TOKEN to read-only in pull-requests workflow](https://github.com/netbootxyz/netboot.xyz/pull/1841) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
+- [Add Ubuntu 26.10, refresh point releases, remove dead code](https://github.com/netbootxyz/ubuntu-spins/pull/32) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 - [Show ShredOS version matching the detected architecture](https://github.com/netbootxyz/netboot.xyz/pull/1832) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 - [Remove Equinix Metal documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/200) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 months ago)
 - [Remove Equinix Metal support](https://github.com/netbootxyz/netboot.xyz/pull/1830) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use (2 days ago)
+- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use (3 days ago)
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained. (1 week ago)
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more (2 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
