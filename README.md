@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (1 day ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (2 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (4 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (5 days ago)
 - [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 month ago)
 
 #### 🌱 My latest projects
@@ -24,11 +24,11 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
+- [lspci: stop when pciids.ipxe fails signature verification](https://github.com/netbootxyz/netboot.xyz/pull/1853) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
+- [ubuntu: keep pinned kernels bootable when Ubuntu moves the ISO](https://github.com/netbootxyz/netboot.xyz/pull/1852) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
 - [Restrict GITHUB_TOKEN to read-only in pull-requests workflow](https://github.com/netbootxyz/netboot.xyz/pull/1841) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add Ubuntu 26.10, refresh point releases, remove dead code](https://github.com/netbootxyz/ubuntu-spins/pull/32) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 - [Show ShredOS version matching the detected architecture](https://github.com/netbootxyz/netboot.xyz/pull/1832) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
-- [Remove Equinix Metal documentation](https://github.com/netbootxyz/netboot.xyz-docs/pull/200) on [netbootxyz/netboot.xyz-docs](https://github.com/netbootxyz/netboot.xyz-docs) (2 months ago)
-- [Remove Equinix Metal support](https://github.com/netbootxyz/netboot.xyz/pull/1830) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
 
 #### ⭐ Recent stars
 
@@ -40,7 +40,7 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 📜 My recent blog posts
 
-- [Introducing Phosphor: A Music Visualizer for macOS](https://littleknife.dev/blog/2026/04/29/introducing-phosphor/) (6 months ago)
+- [Introducing Phosphor: A Music Visualizer for macOS](https://littleknife.dev/blog/2026/04/29/introducing-phosphor/) (7 months ago)
 - [A Proven Dual-Mac Dock Setup with One-Button Switching](https://littleknife.dev/blog/2026/04/28/dual-mac-docking-station-setup/) (7 months ago)
 - [Infrastructure Knowledge, Packaged for AI Agents](https://littleknife.dev/blog/2026/04/02/your-ai-agent-can-write-react-but-cant-deploy-kubernetes/) (7 months ago)
 - [Bootable Containers with bootc-rocky](https://littleknife.dev/blog/2026/03/26/bootable-containers-with-bootc-rocky/) (8 months ago)
