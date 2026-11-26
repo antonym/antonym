@@ -8,10 +8,10 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 👷 Check out what I'm currently working on
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 day ago)
-- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (2 days ago)
-- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (3 days ago)
-- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 days ago)
+- [netbootxyz/docker-builder](https://github.com/netbootxyz/docker-builder) - Docker container for optimizing netboot.xyz builds (3 days ago)
+- [netbootxyz/pciids](https://github.com/netbootxyz/pciids) - pciids for iPXE usage (4 days ago)
+- [netbootxyz/docker-netbootxyz](https://github.com/netbootxyz/docker-netbootxyz) - netboot.xyz docker container (6 days ago)
 - [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) - Ubuntu Spins - mini-iso expanded (1 month ago)
 
 #### 🌱 My latest projects
@@ -24,8 +24,8 @@ hacking on hardware, software, and helping others learn about technology.
 
 #### 🔨 Latest Pull Requests I published
 
-- [lspci: stop when pciids.ipxe fails signature verification](https://github.com/netbootxyz/netboot.xyz/pull/1853) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
-- [ubuntu: keep pinned kernels bootable when Ubuntu moves the ISO](https://github.com/netbootxyz/netboot.xyz/pull/1852) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (today)
+- [lspci: stop when pciids.ipxe fails signature verification](https://github.com/netbootxyz/netboot.xyz/pull/1853) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
+- [ubuntu: keep pinned kernels bootable when Ubuntu moves the ISO](https://github.com/netbootxyz/netboot.xyz/pull/1852) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 day ago)
 - [Restrict GITHUB_TOKEN to read-only in pull-requests workflow](https://github.com/netbootxyz/netboot.xyz/pull/1841) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (1 month ago)
 - [Add Ubuntu 26.10, refresh point releases, remove dead code](https://github.com/netbootxyz/ubuntu-spins/pull/32) on [netbootxyz/ubuntu-spins](https://github.com/netbootxyz/ubuntu-spins) (1 month ago)
 - [Show ShredOS version matching the detected architecture](https://github.com/netbootxyz/netboot.xyz/pull/1832) on [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (2 months ago)
